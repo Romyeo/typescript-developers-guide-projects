@@ -1,0 +1,14 @@
+[INSTALL PACKAGES]
+
+[GLOBAL]
+PARCEL
+
+[LOCAL]
+FAKER
+
+[DEVELOPMENT]
+@TYPES/FAKER
+@TYPES/GOOGLEMAPS
+
+[PRE-REQUISITES]
+Google Map APIS - console.developers.google.com (Maps Javascript API)
